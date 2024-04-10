@@ -1,0 +1,1 @@
+# Predictive-Modelling-of-COVID19-Hospitalizations-based-on-Air-Quality-Index
